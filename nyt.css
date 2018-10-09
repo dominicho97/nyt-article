@@ -1,0 +1,53 @@
+.article-title{
+  display: inline-block;
+    max-width: 346.152px;
+    position: relative;
+    left: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 14px;
+}
+
+
+.article-image{
+  position: relative;
+  left: 159px;
+
+}
+
+.image-text{
+  color:gray;
+  
+
+}
+
+.credits{
+  color:gray;
+  
+}
+
+.author{
+  left: 430px;
+  position: relative;
+  
+}
+
+.date-of-article{
+  position: relative;
+  left: 430px;
+  color: gray;
+}
+
+.text-block-1{
+  position: relative;
+  margin-left: 430px;
+}
+
+.inflation-explanation{
+  margin-left: 430px;
+}
+
+
+
+
+
