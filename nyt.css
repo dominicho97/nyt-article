@@ -41,13 +41,21 @@
 .text-block-1{
   position: relative;
   margin-left: 430px;
+  margin-right : 300px;
 }
 
 .inflation-explanation{
   margin-left: 430px;
+  margin-right : 300px;
 }
 
+.inflation-1{
+  margin-left: 430px;
+  margin-right : 300px;
+}
 
-
-
+.text-block-2{
+  margin-left:430px;
+  margin-right : 300px;
+}
 
