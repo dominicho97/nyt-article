@@ -42,6 +42,7 @@
   position: relative;
   margin-left: 430px;
   margin-right : 300px;
+  font-size: 20px;
 }
 
 .inflation-explanation{
@@ -57,6 +58,7 @@
 .text-block-2{
   margin-left:430px;
   margin-right : 300px;
+  font-size: 20px;
 }
 
 .video{
@@ -66,4 +68,34 @@
 
 .credit{ 
   color:gray;
+}
+
+.text-block-3{
+  margin-left:430px;
+  margin-right : 300px;
+  font-size: 20px;
+}
+
+.bicep2-image{
+  margin-left:430px;
+  margin-right : 300px;
+}
+
+.image-text2{
+  margin-left:430px;
+  margin-right : 300px;
+  color:gray;
+
+}
+
+.credits-2{
+  color:gray;
+  margin-left:430px;
+
+}
+
+.text-block-4{
+  margin-left:430px;
+  margin-right : 300px;
+  font-size: 20px;
 }
