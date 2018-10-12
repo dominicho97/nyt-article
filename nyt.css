@@ -27,43 +27,35 @@
 }
 
 .author{
-  left: 430px;
   position: relative;
   
 }
 
 .date-of-article{
   position: relative;
-  left: 430px;
   color: gray;
 }
 
 .text-block-1{
   position: relative;
-  margin-left: 430px;
-  margin-right : 300px;
   font-size: 20px;
 }
 
 .inflation-explanation{
-  margin-left: 430px;
-  margin-right : 300px;
 }
 
 .inflation-1{
-  margin-left: 430px;
-  margin-right : 300px;
+  background-image: url(images/inflation-1.png);
+  background-size: 720px 648px;
+  width: 720px;
+  height: 648px;
 }
 
 .text-block-2{
-  margin-left:430px;
-  margin-right : 300px;
   font-size: 20px;
 }
 
 .video{
-  margin-left:430px;
-  margin-right : 300px;
 }
 
 .credit{ 
@@ -71,31 +63,32 @@
 }
 
 .text-block-3{
-  margin-left:430px;
-  margin-right : 300px;
+
   font-size: 20px;
 }
 
 .bicep2-image{
-  margin-left:430px;
-  margin-right : 300px;
+
 }
 
 .image-text2{
-  margin-left:430px;
-  margin-right : 300px;
+
   color:gray;
 
 }
 
 .credits-2{
   color:gray;
-  margin-left:430px;
+  font-size: 12px;
 
 }
 
 .text-block-4{
-  margin-left:430px;
-  margin-right : 300px;
+
   font-size: 20px;
+}
+
+.margin-left-right{
+  margin-left: 430px;
+  margin-right: 300px;
 }
